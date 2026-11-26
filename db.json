@@ -1,45 +1,6 @@
 {
   "watches": [
     {
-      "id": "2",
-      "title": "Pista 24",
-      "category": "Cronógrafo",
-      "movement": "Cuarzo",
-      "diameter": 42,
-      "reserve": 45,
-      "description": "Subesferas de alto contraste y pulsadores cómodos para medir intervalos. La escala exterior complementa una esfera de lectura rápida.",
-      "image": "/relojes/8.jpg",
-      "specifications": [
-        {
-          "id": "1",
-          "name": "Correa",
-          "value": "Acero"
-        },
-        {
-          "id": "2",
-          "name": "Caja",
-          "value": "Acero inoxidable"
-        }
-      ],
-      "care": [
-        {
-          "id": "1",
-          "text": "Limpia la caja con un paño suave."
-        },
-        {
-          "id": "2",
-          "text": "Guárdalo en un estuche seco después de usarlo."
-        }
-      ],
-      "favorite": false,
-      "createdAt": "2026-11-23T12:00:00.000Z",
-      "author": {
-        "name": "Equipo TheVisionistLuxury",
-        "email": "catalogo@example.com",
-        "bio": "Curaduría del catálogo de demostración."
-      }
-    },
-    {
       "id": "3",
       "title": "Abisal 200",
       "category": "Buceo",
@@ -272,6 +233,51 @@
         "email": "catalogo@example.com",
         "bio": "Curaduría del catálogo de demostración."
       }
+    },
+    {
+      "id": "a3fb",
+      "title": "Patek Phillep",
+      "category": "Deportivo",
+      "movement": "Automático",
+      "diameter": 42,
+      "reserve": 50,
+      "description": "Patek Phillep Aquanut, adecuado para el estilo maritimo,",
+      "image": "https://helvetus.com/cdn/shop/files/rubber-strap-for-patek-philippe-aquanaut-blue-1179560.jpg?v=1787414112&width=2048",
+      "specifications": [
+        {
+          "id": "ddffd04a-7a94-4317-b83d-35b5b56450a2",
+          "name": "Patek Phillep Aquanut",
+          "value": "$70.000"
+        },
+        {
+          "id": "a7a0a079-72be-4620-b492-09307dcb7acc",
+          "name": "Correa en Goma de alta resistencia",
+          "value": "$0"
+        },
+        {
+          "id": "4ae6f0d3-01f4-4b6d-a79c-2cb9da549683",
+          "name": "Caja en acero inoxidable",
+          "value": "$0"
+        },
+        {
+          "id": "ab2cbd00-f662-4c0e-988c-8590f94a94be",
+          "name": "Broche Estilo mariposa",
+          "value": "$0"
+        }
+      ],
+      "care": [
+        {
+          "id": "3e6bc1a2-dd92-4c69-a3ed-340168577015",
+          "text": "Sumergible 30M Max"
+        }
+      ],
+      "author": {
+        "name": "Team TheVisionistStore",
+        "email": "Thevisionistluxurystore@gmail.com",
+        "bio": "Elegancia, confianza y estatus!"
+      },
+      "favorite": false,
+      "createdAt": "2026-11-26T04:26:29.000Z"
     }
   ]
 }
