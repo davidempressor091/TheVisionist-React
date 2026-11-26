@@ -1,0 +1,277 @@
+{
+  "watches": [
+    {
+      "id": "2",
+      "title": "Pista 24",
+      "category": "Cronógrafo",
+      "movement": "Cuarzo",
+      "diameter": 42,
+      "reserve": 45,
+      "description": "Subesferas de alto contraste y pulsadores cómodos para medir intervalos. La escala exterior complementa una esfera de lectura rápida.",
+      "image": "/relojes/8.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Acero"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-23T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "3",
+      "title": "Abisal 200",
+      "category": "Buceo",
+      "movement": "Automático",
+      "diameter": 41,
+      "reserve": 48,
+      "description": "Bisel graduado y marcadores amplios para consultar la hora de un vistazo. La correa flexible se ajusta bien a la muñeca.",
+      "image": "/relojes/5.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Caucho negro"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-22T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "4",
+      "title": "Horizonte GMT",
+      "category": "Aviación",
+      "movement": "Automático",
+      "diameter": 40,
+      "reserve": 46,
+      "description": "El diseño de inspiración aeronáutica combina índices grandes con una indicación adicional para un segundo huso horario.",
+      "image": "/relojes/6.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Piel negra"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-21T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "5",
+      "title": "Vector Sport",
+      "category": "Deportivo",
+      "movement": "Cuarzo",
+      "diameter": 43,
+      "reserve": 44,
+      "description": "Reloj de líneas firmes con una esfera de alto contraste y brazalete apto para uso diario.",
+      "image": "/relojes/3.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Acero cepillado"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-20T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "6",
+      "title": "Atelier 38",
+      "category": "Clásico",
+      "movement": "Manual",
+      "diameter": 38,
+      "reserve": 39,
+      "description": "Una caja compacta y una esfera limpia que dejan a la vista solo lo esencial. Se da cuerda a mano.",
+      "image": "/relojes/4.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Piel negra"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-19T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "7",
+      "title": "Calibre Verde",
+      "category": "Deportivo",
+      "movement": "Automático",
+      "diameter": 40,
+      "reserve": 41,
+      "description": "La esfera verde cambia de tono según la luz. El bisel fino y el brazalete lo hacen fácil de combinar entre semana.",
+      "image": "/relojes/2.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Acero"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-18T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    },
+    {
+      "id": "8",
+      "title": "Fase Dorada",
+      "category": "Clásico",
+      "movement": "Manual",
+      "diameter": 37,
+      "reserve": 40,
+      "description": "Una caja de tonos cálidos y una esfera de gran contraste para ocasiones formales. La correa de piel suaviza el conjunto.",
+      "image": "/relojes/1.jpg",
+      "specifications": [
+        {
+          "id": "1",
+          "name": "Correa",
+          "value": "Piel marrón"
+        },
+        {
+          "id": "2",
+          "name": "Caja",
+          "value": "Acero inoxidable"
+        }
+      ],
+      "care": [
+        {
+          "id": "1",
+          "text": "Limpia la caja con un paño suave."
+        },
+        {
+          "id": "2",
+          "text": "Guárdalo en un estuche seco después de usarlo."
+        }
+      ],
+      "favorite": false,
+      "createdAt": "2026-11-17T12:00:00.000Z",
+      "author": {
+        "name": "Equipo TheVisionistLuxury",
+        "email": "catalogo@example.com",
+        "bio": "Curaduría del catálogo de demostración."
+      }
+    }
+  ]
+}
